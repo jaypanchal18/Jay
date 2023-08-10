@@ -1,3 +1,5 @@
+
+![logo](https://github.com/jaypanchal18/Jay/blob/main/1658987157196.jpeg)
 <h1 align="center">Hi 👋, I'm Jay Panchal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
